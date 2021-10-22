@@ -1,0 +1,33 @@
+
+# Create run files for MS Marco V1
+
+```
+INDEX_NAME=cc-16-07-anchortext ./retrieval-dl-19-20-on-marco-v1.sh
+INDEX_NAME=cc-17-04-anchortext ./retrieval-dl-19-20-on-marco-v1.sh
+INDEX_NAME=cc-18-13-anchortext ./retrieval-dl-19-20-on-marco-v1.sh
+INDEX_NAME=cc-19-47-anchortext ./retrieval-dl-19-20-on-marco-v1.sh
+INDEX_NAME=cc-20-05-anchortext ./retrieval-dl-19-20-on-marco-v1.sh
+INDEX_NAME=cc-21-04-anchortext ./retrieval-dl-19-20-on-marco-v1.sh
+INDEX_NAME=cc-combined-anchortext ./retrieval-dl-19-20-on-marco-v1.sh
+INDEX_NAME=ms-marco-content ./retrieval-dl-19-20-on-marco-v1.sh
+INDEX_NAME=orcas ./retrieval-dl-19-20-on-marco-v1.sh
+INDEX_NAME=ms-marco-deepct-v1-anserini-docs-cc-2019-47-sampled-test-overlap-removed-389979 ./retrieval-dl-19-20-on-marco-v1.sh
+INDEX_NAME=ms-marco-deepct-v1-anserini-docs-orcas-sampled-test-overlap-removed-390009 ./retrieval-dl-19-20-on-marco-v1.sh
+INDEX_NAME=ms-marco-deepct-v1-anserini-docs-ms-marco-training-set-test-overlap-removed-389973 ./retrieval-dl-19-20-on-marco-v1.sh
+```
+
+# Create run files for MS Marco V2
+
+```
+INDEX_NAME=msmarco-doc-v2 ./retrieval-dl-21-on-marco-v2.sh
+INDEX_NAME=cc-19-47-anchortext-v2 ./retrieval-dl-21-on-marco-v2.sh
+INDEX_NAME=orcas-ms-marco-v2 ./retrieval-dl-21-on-marco-v2.sh
+INDEX_NAME=cc-union-16-to-21-anchortext-1000 ./retrieval-dl-21-on-marco-v2.sh
+INDEX_NAME= ./retrieval-dl-21-on-marco-v2.sh
+INDEX_NAME= ./retrieval-dl-21-on-marco-v2.sh
+INDEX_NAME= ./retrieval-dl-21-on-marco-v2.sh
+INDEX_NAME= ./retrieval-dl-21-on-marco-v2.sh
+INDEX_NAME= ./retrieval-dl-21-on-marco-v2.sh
+INDEX_NAME= ./retrieval-dl-21-on-marco-v2.sh
+```
+

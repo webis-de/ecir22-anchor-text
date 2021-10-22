@@ -1,0 +1,10 @@
+# Compiled class files
+*.class
+** /outputTestFiles/
+**/hadoop/core-site.xml
+**/target/
+**/.classpath
+**/.project
+**/.settings/
+**/__pycache__
+**/.ipynb_checkpoints

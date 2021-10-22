@@ -1,0 +1,6 @@
+111 Q0 msmarco_doc_00_1 70 14.995000 Anserini
+112	Q0	msmarco_doc_00_1	70	14.995000 Anserini
+112 Q0 msmarco_doc_00_2 		70 14.995000 Anserini
+111 Q0 msmarco_doc_00_3 70 	 14.995000 Anserini
+111 Q0 msmarco_doc_00_4 70  14.995000 Anserini
+111 Q0 msmarco_doc_00_5   70 14.995000 Anserini
