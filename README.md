@@ -8,6 +8,7 @@ All data is available [online](https://files.webis.de/data-in-progress/ecir22-an
 
 - Anchor texts with meta data is available at [https://files.webis.de/data-in-progress/ecir22-anchor-text/anchor-text-samples/](https://files.webis.de/data-in-progress/ecir22-anchor-text/anchor-text-samples/).
 - Anchor texts that can be directly indexed in anserini is available at [https://files.webis.de/data-in-progress/ecir22-anchor-text/anchor-text-anserini-docs/](https://files.webis.de/data-in-progress/ecir22-anchor-text/anchor-text-anserini-docs/)
+- Additionally, we currently move the data to [Hugging Face](https://huggingface.co/datasets/webis/ms-marco-anchor-text) and the [integration to ir_datasets](https://github.com/allenai/ir_datasets/issues/154) is pending.
 
 
 # Training and Availability of Models
