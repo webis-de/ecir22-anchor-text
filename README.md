@@ -1,7 +1,5 @@
 # The Power of Anchor Text in the Neural Retrieval Era
 
-(The paper associated to this repositoy is currently under review.)
-
 We have extracted anchor text pointing to documents in MS MARCO (both, version 1 and version 2) and have reproduced two seminal works on the effectiveness of anchor text for navigational queries and on the similarity of queries to anchor text.
 
 All data is available [online](https://files.webis.de/data-in-progress/ecir22-anchor-text/), and our extracted anchor text comes in 2 versions:
