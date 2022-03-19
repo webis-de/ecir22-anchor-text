@@ -4,6 +4,22 @@ We have extracted anchor text pointing to documents in MS MARCO (both, version 1
 
 All data is available [online](https://webis.de/data/webis-ms-marco-anchor-text-22.html).
 
+This repository contains the data and code for reproducing results of the paper:
+
+    @InProceedings{froebe:2022a,
+        address =               {Berlin Heidelberg New York},
+        author =                {Maik Fr{\"o}be and Sebastian G{\"u}nther and Maximilian Probst and Martin Potthast and Matthias Hagen},
+        booktitle =             {Advances in Information Retrieval. 44th European Conference on IR Research (ECIR 2022)},
+        editor =                {Matthias Hagen and Suzan Verberne and Craig Macdonald and Christin Seifert and Krisztian Balog and Kjetil N{\o}rv\r{a}g and Vinay Setty},
+        month =                 apr,
+        publisher =             {Springer},
+        series =                {Lecture Notes in Computer Science},
+        site =                  {Stavanger, Norway},
+        title =                 {{The Power of Anchor Text in the Neural Retrieval Era}},
+        year =                  2022
+    }
+
+
 
 # Training and Availability of Models
 
